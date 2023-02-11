@@ -1,0 +1,10 @@
+{
+    "url": "https://nbtstru.rasky1.com",
+    "type": "rich",
+    "provider_name": "by AntiBanJapan",
+    "provider_url": "https://discord.gg/abj",
+    "version": "1.0",
+    "html": "<iframe src='https://taiko.kairun.jp'></iframe>",
+    "width": 550,
+    "height": null
+}
